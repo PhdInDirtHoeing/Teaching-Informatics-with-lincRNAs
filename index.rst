@@ -6,7 +6,7 @@
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
-**TUTORIAL NAME**
+**A lincRNA Discovery Workflow for the Undergraduate Classroom**
 =================
 
 ..
@@ -35,9 +35,9 @@ Who to contact if this guide needs fixing. You can also email
     * - Maintainer
       - Institution
       - Contact
-    * - Your Name
-      - CyVerse / UA
-      - Yourname@email.com
+    * - Rebecca Murphy
+      - Centenary College of Louisiana
+      - rmurphy2@centenary.edu
 ----
 
 .. toctree::
