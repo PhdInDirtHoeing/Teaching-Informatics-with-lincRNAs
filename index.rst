@@ -179,8 +179,8 @@ Input and example data
       - Format
       - Preparation/Notes
       - Example Data
-    * -
-      -
+    * - Klepikova
+      - text
       -
       -
 
