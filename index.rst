@@ -44,7 +44,7 @@ Who to contact if this guide needs fixing. You can also email
 	:maxdepth: 2
 
 	Tutorial home <self>
-	Step One <step1.rst>
+	Step One <p1_preparing_data_setup.rst>
 	Delete this example guide page <example_directives_delete.rst>
 ..
 	#### Comment:This tutorial can have multiple pages. The table of contents assumes
@@ -72,12 +72,7 @@ Downloads, access, and services
     * - CyVerse account
       - You will need a CyVerse account to complete this exercise
       - |CyVerse User Portal|
-    * - Atmosphere access
-      - You must have access to Atmosphere
-      - |CyVerse User Portal|
-    * - Cyberduck
-      - Standalone software for upload/download to Data Store
-      - |Download Cyberduck|
+
 
 Platform(s)
 ~~~~~~~~~~~
@@ -135,13 +130,22 @@ Application(s) used
       - Description
       - App link
       - Notes/other links
-    * - Muscle
-      - 3.8.31
-      - Multiple sequence aligner
+    * - RMTA_Instructional
+      - 1.0
+      - Read Map and Transcript Assembly
       -	|CyVerse_launch|
       - |Original App Documentation|
-
-
+    * - File_Select
+      - 1.0
+      - File Selector
+      -	|CyVerse_launch|
+      - |Original App Documentation|
+    * - Evolinc-I
+      - 1.7.5
+      - lincRNA
+      -	|CyVerse_launch|
+      - |Original App Documentation|
+      
 **Atmosphere Image(s):**
 
 .. list-table::
